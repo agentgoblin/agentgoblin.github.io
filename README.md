@@ -1,4 +1,4 @@
 Генераторы для настольных ролевых игр
 =====================================
 
-для использования перейдите на [stashdog.github.io](https://stashdog.github.io)
+для использования перейдите на [agentgoblin.github.io](https://agentgoblin.github.io)
