@@ -116,9 +116,9 @@ function drawTable() {
             /* add dice image */
             let diceImg = document.createElement('img');
             if ( document.getElementById('showAsDices').checked ) {
-                diceImg.src = "dice" + mapa[row][col] + ".png";
+                diceImg.src = "../images/dice" + mapa[row][col] + ".png";
             } else {
-                diceImg.src = "map" + mapa[row][col] + ".png";
+                diceImg.src = "../images/map" + mapa[row][col] + ".png";
             }
             /* add alt text for images */
             if ( mapa[row][col] == 0 ) {
